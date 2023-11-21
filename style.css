@@ -1,0 +1,59 @@
+body {
+    background-color: #416165;
+    font-family: "Roboto Light", sans-serif;
+    font-size: 22px;
+}
+
+.main-container {
+    width: 50%;
+    margin: auto;
+    background-color: #F7B2AD;
+    padding: 1.8rem;
+    border-radius: 1rem;
+}
+
+.chapo {
+    font-weight: bold;
+}
+
+#bigTitle {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.container {
+    width: fit-content;
+    margin: auto;
+}
+
+.feat-container {
+    display: flex;
+    align-items: center;
+}
+
+#wideI {
+    font-size: 7rem;
+}
+
+.logo-img {
+    height: 5rem;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #EF7A85;
+    color: black;
+    padding: 0.8rem;
+    border-radius: 0.8rem;
+}
+
+.btn:hover {
+    background-color: #e26c77;
+}
+
+.minimize {
+    padding: 0.1rem;
+}
