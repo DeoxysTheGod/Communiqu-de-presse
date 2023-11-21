@@ -5,7 +5,7 @@ body {
 }
 
 .main-container {
-    width: 50%;
+    width: 60rem;
     margin: auto;
     background-color: #F7B2AD;
     padding: 1.8rem;
@@ -32,7 +32,6 @@ h2 {
 .feat-container {
     display: flex;
     align-items: center;
-
 }
 
 #wideI {
@@ -45,14 +44,14 @@ h2 {
 
 .btn {
     text-decoration: none;
-    background-color: #EF7A85;
+    background-color: #ed9199;
     color: black;
     padding: 0.8rem;
     border-radius: 0.8rem;
 }
 
 .btn:hover {
-    background-color: #e26c77;
+    background-color: #de878f;
 }
 
 .minimize {
@@ -64,7 +63,9 @@ h2 {
 }
 
 #headImg {
-    height: 310px;
+    height: 410px;
+    width: 100%;
     background-image: url("img/yakuza.png");
     background-size: cover;
+    background-repeat: no-repeat;
 }
