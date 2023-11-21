@@ -32,6 +32,7 @@ h2 {
 .feat-container {
     display: flex;
     align-items: center;
+
 }
 
 #wideI {
@@ -56,4 +57,14 @@ h2 {
 
 .minimize {
     padding: 0.1rem;
+}
+
+#media-list > li {
+    padding: .7rem;
+}
+
+#headImg {
+    height: 310px;
+    background-image: url("img/yakuza.png");
+    background-size: cover;
 }
